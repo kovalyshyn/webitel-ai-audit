@@ -49,7 +49,7 @@ Duplicate requests for the same call UUID are silently ignored.
 ## Installation
 
 ```bash
-git clone https://github.com/your-org/webitel-ai-audit
+git clone https://github.com/kovalyshyn/webitel-ai-audit
 cd webitel-ai-audit
 pip install -r requirements.txt
 ```
